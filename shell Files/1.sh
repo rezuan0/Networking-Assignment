@@ -1,0 +1,3 @@
+
+nslookup google.com
+
